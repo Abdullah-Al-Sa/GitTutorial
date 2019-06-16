@@ -12,10 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Printing
-        print("Hello GitHub")
-        print("Trying the source contrl")
+        // Do any additional setup after loading the view.
     }
 
 
